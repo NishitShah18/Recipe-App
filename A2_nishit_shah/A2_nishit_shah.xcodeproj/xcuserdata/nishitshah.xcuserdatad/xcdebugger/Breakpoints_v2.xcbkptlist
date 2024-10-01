@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A3871013-2201-49C4-B5DF-84ED1F00158D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA920363-A988-4780-85F2-C3C892A838BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A2_nishit_shah/Feedback.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "Feedback"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A2_nishit_shah/Feedback.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Feedback"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - 89394a20f06dd4e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.scrollBar.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Feedback.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - 121232a1660f0efd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.scrollBar.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Feedback.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - aadf46692e367c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.scrollBar.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Feedback.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - e6d5e34333f2474c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.scrollBar.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - c1a908777abfac47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; A2_nishit_shah.Feedback"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Feedback.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "21F5599D-7E9C-4319-90A7-C7F71175E947 - 65dbda58a0136551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Feedback.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;A2_nishit_shah.Feedback&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Feedback.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A2_nishit_shah/Timer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15">
+            <Locations>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - 37cf2743f72799cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.totalTimeLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Timer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - 66156da425ade93f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.totalTimeLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Timer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - d7cb9b552d0ce7bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.totalTimeLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Timer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - f1cc9d834542bfb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.totalTimeLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - ee3986386402380c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; A2_nishit_shah.Timer"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Timer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "50C7AE83-4492-4A13-9219-43EDEA3C9220 - a41c28c4db5992b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A2_nishit_shah.Timer.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;A2_nishit_shah.Timer&gt;"
+                  moduleName = "A2_nishit_shah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/A2/A2_nishit_shah/A2_nishit_shah/Timer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
