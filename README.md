@@ -1,6 +1,6 @@
-# Student Registration App
+# Recipe App
 
-**Student Registration App** is an iOS application developed in Xcode using the Swift programming language. The app is designed to streamline the college admission process by allowing users to fill out registration forms across multiple screens and view a summary of their data upon completion. The app uses a variety of UI elements to provide an interactive and user-friendly experience.
+**Recipe App** is an iOS application developed in Xcode using the Swift programming language. The app is designed to browse different recipies and provides a timer to use.
 
 ## Features
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the project on your local machine:
    Open Terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/PriyanshParikh27/CollegeAdmission-App.git
+   git clone https://github.com/NishitShah18/Recipe-App.git
    ```
 
 2. **Open the Project in Xcode:**
@@ -48,3 +48,6 @@ If you would like to contribute to this project:
 3. **Make your changes and commit** (`git commit -m 'Add some feature'`).
 4. **Push to the branch** (`git push origin feature-branch`).
 5. **Open a Pull Request**.
+
+## Live Demo:
+You can view the walkthrough and demo of the app [here](https://seneca-my.sharepoint.com/:v:/g/personal/ngshah3_myseneca_ca/EcxyjUsbjNhGg10tMObG-xQBX9g9gIM3cgyUCJCMDyKMpA?e=VzU8JM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
